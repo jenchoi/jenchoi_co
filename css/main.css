@@ -10,7 +10,7 @@
 html, body {
     height: 100%;
     width: 100%;
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color:#757575;
 }
 
@@ -34,7 +34,7 @@ a img {
 h6 {
   height: 100%;
   width: 100%;
-  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color:#757575;
   font-size: 17px;
 }
@@ -42,6 +42,7 @@ h6 {
 h1,h2,h3,h4,h5 {
     font-family: 'Oxygen', sans-serif;
     font-weight: 700;
+
  
 
 }
@@ -372,7 +373,7 @@ background-color: transparent;
     font-weight: 700;
     letter-spacing: 5px;
     text-align: center;
-    color: #555555
+    color: #555555;
     text-transform: uppercase;
     padding:20px 0;
 }
