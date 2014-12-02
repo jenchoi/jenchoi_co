@@ -144,8 +144,9 @@ background-color: transparent;
 
 #page-blog{
     padding: 75px 0;
-    background:#f7f7f7;
-    text-align: center;   
+    background-color:#f7f7f7;
+    text-align: center;
+/*    height: 1000px;  */ 
 }
 
 
@@ -178,6 +179,11 @@ background-color: transparent;
 
 #page-contact .contact-info p{
     font-size:1.2em;
+}
+
+.contactme{
+  margin-left:35%;
+  margin-right:auto;
 }
 
 
